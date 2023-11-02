@@ -61,7 +61,7 @@
             </style>
             <body>
                 <div id="main">
-                    <img src="[url=https://ibb.co/gPKjh41][img]https://i.ibb.co/8dZKtY3/logo-TM-baloon-5x-8.png[/img][/url]" alt="Logo Image" />
+                    <a href="https://ibb.co/gPKjh41"><img src="https://i.ibb.co/8dZKtY3/logo-TM-baloon-5x-8.png" alt="logo-TM-baloon-5x-8" border="0"></a>
                     <h1>Trendy Merches</h1>
                     <h2>Our website is currently under construction.</h2>
                     <div id="progress"><div id="fill"><div id="barpercent"><h3>35%</h3></div></div></div>
